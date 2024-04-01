@@ -1,5 +1,3 @@
-project info:
-
 Problem: Building the Future of Construction Project Management
 
 Overview: Large-scale construction projects involve complex coordination between architects, contractors, clients, and various subcontractors. Communication gaps, inefficient resource allocation, and outdated progress tracking methods can lead to delays, budget overruns, and frustration.
@@ -8,9 +6,7 @@ Key Features to Include:
 
 1. Modular Dashboard
 2. Integrated Task Management
-3. Collaborative Document Management
-4. Budget Management
-5. Communication Hub
-6. Mobile Accessibility
+3. Budget Management
+4. Mobile Accessibility
 
 
